@@ -1,0 +1,8 @@
+# Versiones con las que se probó todo (Python 3.13). Python >= 3.10 debería valer.
+poke-env==0.16.1
+numpy
+scipy
+torch
+gymnasium
+tensorboard
+tabulate
